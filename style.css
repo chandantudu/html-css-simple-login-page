@@ -51,10 +51,11 @@ textarea {
     outline: none;
 }
 
-.logo {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 1.25rem;
+h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 10px;
+    background-image: linear-gradient(to right, transparent , #ffffff,transparent);
 }
 
 .container .wrap {
